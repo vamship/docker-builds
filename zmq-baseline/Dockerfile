@@ -1,7 +1,6 @@
+FROM ubuntu:14.04
 MAINTAINER Vamshi K Ponnapalli <vamshi.ponnapalli@gmail.com>
 
-
-FROM ubuntu:14.04
 
 # Update apt-get repositories, install dependencies for the zmq build
 RUN apt-get update

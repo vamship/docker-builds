@@ -1,7 +1,6 @@
+FROM vamship/zmq-baseline:v1.0.0
 MAINTAINER Vamshi K Ponnapalli <vamshi.ponnapalli@gmail.com>
 
-
-FROM vamship/zmq-baseline:v1.0.0
 
 # Nodejs configuration instructions from here:
 # https://github.com/joyent/node/wiki/installing-node.js-via-package-manager#debian-and-ubuntu-based-linux-distributions
