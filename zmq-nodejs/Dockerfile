@@ -1,4 +1,4 @@
-FROM vamship/zmq-baseline:v1.0.0
+FROM vamship/zmq-baseline:1.0.0
 MAINTAINER Vamshi K Ponnapalli <vamshi.ponnapalli@gmail.com>
 
 
